@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPIIMG", "RevitAPIIMG\RevitAPIIMG.csproj", "{559A9489-CAE2-43C0-8F4A-81589D278080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559A9489-CAE2-43C0-8F4A-81589D278080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559A9489-CAE2-43C0-8F4A-81589D278080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559A9489-CAE2-43C0-8F4A-81589D278080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559A9489-CAE2-43C0-8F4A-81589D278080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F95460EC-F875-4B53-9F26-963F2A5E2E17}
+	EndGlobalSection
+EndGlobal
